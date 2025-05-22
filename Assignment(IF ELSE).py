@@ -1,3 +1,7 @@
+#you are creating a simple program for 'VENTEX HOTEL'
+#they serve INDIAN DISHES - IDLY< DOSA, VSDA, UPMA, POORI, WITH res. prices
+#every cumstomer buys three items of any count
+#print final bill
 menu = {
     'energy drink': 50,
     'mazza': 30,
