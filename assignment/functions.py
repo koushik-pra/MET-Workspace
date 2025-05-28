@@ -11,7 +11,6 @@
 
      #   print(f"Hola {name}")
 
-
 #greet("en","prashanth")
 
 data= [{
